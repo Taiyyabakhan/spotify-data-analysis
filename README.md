@@ -1,11 +1,11 @@
-# 🎵 Spotify Songs Data Analysis
+# Spotify Songs Data Analysis
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes a Spotify songs dataset to uncover patterns in music features, popularity, and genres. It involves data cleaning, visualization, and extracting meaningful insights using Python.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Analyze song popularity trends  
 - Identify top artists and genres  
 - Study relationships between audio features  
@@ -13,7 +13,7 @@ This project analyzes a Spotify songs dataset to uncover patterns in music featu
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 - **Total Records:** 114,000  
 - **Total Features:** 21  
 
@@ -25,7 +25,7 @@ The dataset includes:
 
 ---
 
-## 🧹 Data Cleaning
+## Data Cleaning
 - Removed unnecessary column (`Unnamed: 0`)  
 - Handled missing values  
 - Checked and removed duplicate records  
@@ -33,7 +33,7 @@ The dataset includes:
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 The project includes the following visualizations:
 - 📈 Popularity Distribution  
 - 🎤 Top Artists  
@@ -46,7 +46,7 @@ The project includes the following visualizations:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 - Most songs fall within a **medium popularity range**  
 - **Energy and loudness** show strong positive correlation  
 - Popularity depends on **multiple audio features**  
@@ -56,7 +56,7 @@ The project includes the following visualizations:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python 🐍  
 - Pandas  
 - Matplotlib  
@@ -65,14 +65,14 @@ The project includes the following visualizations:
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 - Build a **music recommendation system**  
 - Develop an **interactive dashboard** (Power BI / Streamlit)  
 - Apply **machine learning models** for clustering and prediction  
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 spotify-data-analysis
 ┣ 📜 songs.csv
 ┣ 📜 analysis.ipynb
@@ -81,5 +81,5 @@ spotify-data-analysis
 
 ---
 
-## 🙌 Author
+## Author
 **Taiyyaba Khan**
